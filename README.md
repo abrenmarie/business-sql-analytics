@@ -1,4 +1,4 @@
-Commercial & Hospitality Data Analytics
+**Commercial & Hospitality Data Analytics**
 
 ### Project Overview
 This repository contains production-ready SQL scripts designed to analyze customer behavior, optimize pricing structures, and track financial performance.
